@@ -1,0 +1,10 @@
+com\mocroserv\microserv\dto\ProductResponse$ProductResponseBuilder.class
+com\mocroserv\microserv\repository\ProductRepository.class
+com\mocroserv\microserv\model\Product.class
+com\mocroserv\microserv\model\Product$ProductBuilder.class
+com\mocroserv\microserv\service\ProductService.class
+com\mocroserv\microserv\controller\ProductController.class
+com\mocroserv\microserv\dto\ProductResponse.class
+com\mocroserv\microserv\MicroservApplication.class
+com\mocroserv\microserv\dto\ProductRequest$ProductRequestBuilder.class
+com\mocroserv\microserv\dto\ProductRequest.class
